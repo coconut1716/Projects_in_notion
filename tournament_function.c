@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//hi
 // 승자를 결정하는 함수
 void the_winner_is(int winner[], int arr_for_previous[], int size) {
     int first_ath_pts, second_ath_pts;
